@@ -1,0 +1,6 @@
+{
+  "name": "Trivia Studio - Quiz & Team Game",
+  "description": "Juego interactivo de trivia con modos individual y por equipos, niveles de dificultad, ranking proyectable TV, y creador de preguntas con IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
